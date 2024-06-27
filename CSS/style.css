@@ -1,0 +1,29 @@
+.custom-background {
+    background-color: #00bf63 !important; 
+}
+
+
+html, body {
+    height: 100%;
+
+}
+
+.form-container {
+    max-width: 350px;
+    padding: 1rem;
+}
+
+.custom-btn {
+    background-color: black;
+    color: white;
+    border: none; 
+    margin: 7rem;
+    padding: 0.5rem 1rem; 
+    font-size: 0.8rem; 
+    transition: background-color 0.3s ease;
+}
+
+.custom-btn:hover {
+    background-color: darkgray;
+    color: black; 
+}
